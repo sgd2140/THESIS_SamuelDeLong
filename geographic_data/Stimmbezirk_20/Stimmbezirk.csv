@@ -1,0 +1,13 @@
+﻿Feldname;Alias;Beschreibung
+FID;OBJECTID;Vom Programm verwaltet eindeutige Kennung jedes Objekts
+nummer;Nummer;Eindeutiger 5-stelliger Schlüssel, zusammengesetzt aus 3-stelligem Stadtteilschlüssel + 2-stelliger fortlaufende Nummerierung
+nr_kwbez;Kommunalwahlbezirk (Nr.);Nummer des Kommunalwahlbezirk
+kwbezirk;Kommunalwahlbezirk;Name des Kommunalwahlbezirk
+nr_lwkreis;Landtagswahlkreis (Nr.);Nummer des Landtagswahlkreis
+lwkreis;Landtagswahlkreis;Name des Landtagswahlkreis
+nr_bwkreis;Bundestagswahlkreis (Nr.);Nummer des Bundestagswahlkreis
+bwkreis;Bundestagswahlkreis;Name des Bundestagswahlkreis
+nr_stteil;Stadtteil (Nr.);Schlüssel des übergeordneten Stadtteils
+stteil;Stadtteil;Name des übergeordneten Stadtteils
+nr_stbez;Stadtbezirk (Nr.);Schlüssel des übergeordneten Stadtbezirks
+stbezirk;Stadtbezirk;Name des übergeordneten Stadtbezirks

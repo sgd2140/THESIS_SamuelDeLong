@@ -1,0 +1,7 @@
+﻿Feldname;Alias;Beschreibung
+FID;OBJECTID;Vom Programm verwaltet eindeutige Kennung jedes Objekts
+nummer;Nummer;Eindeutiger 3-stelliger Schlüssel, zusammengesetzt aus 1-stelligem Stadtbezirkschlüssel + 2-stelliger fortlaufende Nummerierung
+name;Name;Name des Stadtteils
+nr_stbez;Stadtbezirk (Nr.);Schlüssel des übergeordneten Stadtbezirks
+stbezirk;Stadtbezirk;Name des übergeordneten Stadtbezirks
+flaeche;Fläche (qm);Fläche, berechnet im Geographischen Koordinatensystem WGS 1984
