@@ -1,0 +1,1011 @@
+{
+ "displayFieldName": "z_name",
+ "fieldAliases": {
+  "id": "id",
+  "z_name": "z_name",
+  "id_z_art": "id_z_art",
+  "z_strasse": "z_strasse",
+  "z_hsnr": "z_hsnr",
+  "z_plz": "z_plz",
+  "z_ort": "z_ort",
+  "z_ap_tel_f": "z_ap_tel_f",
+  "z_ap_email": "z_ap_email",
+  "z_website": "z_website",
+  "z_sprachen": "z_sprachen"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "id",
+   "type": "esriFieldTypeOID",
+   "alias": "id"
+  },
+  {
+   "name": "z_name",
+   "type": "esriFieldTypeString",
+   "alias": "z_name",
+   "length": 255
+  },
+  {
+   "name": "id_z_art",
+   "type": "esriFieldTypeInteger",
+   "alias": "id_z_art"
+  },
+  {
+   "name": "z_strasse",
+   "type": "esriFieldTypeString",
+   "alias": "z_strasse",
+   "length": 255
+  },
+  {
+   "name": "z_hsnr",
+   "type": "esriFieldTypeString",
+   "alias": "z_hsnr",
+   "length": 255
+  },
+  {
+   "name": "z_plz",
+   "type": "esriFieldTypeInteger",
+   "alias": "z_plz"
+  },
+  {
+   "name": "z_ort",
+   "type": "esriFieldTypeString",
+   "alias": "z_ort",
+   "length": 255
+  },
+  {
+   "name": "z_ap_tel_f",
+   "type": "esriFieldTypeString",
+   "alias": "z_ap_tel_f",
+   "length": 255
+  },
+  {
+   "name": "z_ap_email",
+   "type": "esriFieldTypeString",
+   "alias": "z_ap_email",
+   "length": 255
+  },
+  {
+   "name": "z_website",
+   "type": "esriFieldTypeString",
+   "alias": "z_website",
+   "length": 255
+  },
+  {
+   "name": "z_sprachen",
+   "type": "esriFieldTypeString",
+   "alias": "z_sprachen",
+   "length": 255
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "id": 55,
+    "z_name": "AWA e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Scheidtweiler Straße",
+    "z_hsnr": "9",
+    "z_plz": 50933,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221-42305824",
+    "z_ap_email": "awaverein@gmail.com",
+    "z_website": null,
+    "z_sprachen": "Deutsch, Afghanisch, Farsi"
+   },
+   "geometry": {
+    "x": 6.9062294476375925,
+    "y": 50.938493101534142
+   }
+  },
+  {
+   "attributes": {
+    "id": 3,
+    "z_name": "Deutsch-Spanischer Kulturkreis \"Antonio Machado e. V.\"",
+    "id_z_art": 1,
+    "z_strasse": "Severinsmühlengasse",
+    "z_hsnr": "1",
+    "z_plz": 50678,
+    "z_ort": "Köln",
+    "z_ap_tel_f": null,
+    "z_ap_email": "circulomachado@gmail.com",
+    "z_website": "http://spanischer-verein.com/\n",
+    "z_sprachen": "Deutsch, Spanisch"
+   },
+   "geometry": {
+    "x": 6.9608320090193319,
+    "y": 50.923555453835448
+   }
+  },
+  {
+   "attributes": {
+    "id": 51,
+    "z_name": "Familienwelt e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Bonner Straße",
+    "z_hsnr": "47",
+    "z_plz": 51145,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "02203 / 9060199",
+    "z_ap_email": "familien-welt@web.de",
+    "z_website": "https://www.familienwelt-koeln.de/",
+    "z_sprachen": "Deutsch, Englisch, Polnisch, Russisch"
+   },
+   "geometry": {
+    "x": 7.0750080523915297,
+    "y": 50.890110074644866
+   }
+  },
+  {
+   "attributes": {
+    "id": 53,
+    "z_name": "Griechische Gemeinde Köln",
+    "id_z_art": 1,
+    "z_strasse": "Liebigstraße",
+    "z_hsnr": "120 b",
+    "z_plz": 50823,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 132530",
+    "z_ap_email": "griech.gem.koeln@t-online.de",
+    "z_website": "http://www.griechische-gemeinde-koeln.de/?page_id=17&lang=gr",
+    "z_sprachen": "Deutsch, Englisch, Französisch, Griechisch, Russisch, Spanisch"
+   },
+   "geometry": {
+    "x": 6.9329476957158773,
+    "y": 50.955543899654977
+   }
+  },
+  {
+   "attributes": {
+    "id": 7,
+    "z_name": "Islamischer Kulturverein",
+    "id_z_art": 1,
+    "z_strasse": "Tempelstraße",
+    "z_hsnr": "42-44",
+    "z_plz": 50679,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 8874246",
+    "z_ap_email": "ikv@ikv-ev-deutz.de",
+    "z_website": null,
+    "z_sprachen": "Deutsch, Arabisch, Englisch , Türkisch"
+   },
+   "geometry": {
+    "x": 6.9728536626027848,
+    "y": 50.934340776314606
+   }
+  },
+  {
+   "attributes": {
+    "id": 59,
+    "z_name": "Shahrzad e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Im Stavenhof",
+    "z_hsnr": "18",
+    "z_plz": 50668,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "",
+    "z_ap_email": "info@shahrzad-gehoerlose.de",
+    "z_website": "https://www.shahrzad-gehoerlose.de/",
+    "z_sprachen": "Deutsch;Deutsche Gebärdensprache;International Sign;Persisch;Persische Gebärdensprache"
+   },
+   "geometry": {
+    "x": 6.8968231109512512,
+    "y": 50.936494251065255
+   }
+  },
+  {
+   "attributes": {
+    "id": 60,
+    "z_name": null,
+    "id_z_art": null,
+    "z_strasse": null,
+    "z_hsnr": null,
+    "z_plz": null,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "bei mehreren Nummern bitte mit Semikolon trennen",
+    "z_ap_email": "bei mehreren E-Mails bitte mit Semikolon trennen",
+    "z_website": null,
+    "z_sprachen": "bei mehreren Sprachen bitte mit Semikolon trennen"
+   }
+  },
+  {
+   "attributes": {
+    "id": 61,
+    "z_name": null,
+    "id_z_art": null,
+    "z_strasse": null,
+    "z_hsnr": null,
+    "z_plz": null,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "bei mehreren Nummern bitte mit Semikolon trennen",
+    "z_ap_email": "bei mehreren E-Mails bitte mit Semikolon trennen",
+    "z_website": null,
+    "z_sprachen": "bei mehreren Sprachen bitte mit Semikolon trennen"
+   }
+  },
+  {
+   "attributes": {
+    "id": 64,
+    "z_name": "Afina-Assoziation für Interkulturelle und Nachbarschaftliche\nArbeit e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Bremsstraße",
+    "z_hsnr": "10",
+    "z_plz": 50969,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221-16932865",
+    "z_ap_email": "info@afina-koeln.de",
+    "z_website": "https://www.afina-koeln.de/de/",
+    "z_sprachen": "Deutsch;Englisch;Russisch;Spanisch"
+   },
+   "geometry": {
+    "x": 6.9442942277594337,
+    "y": 50.913271263867443
+   }
+  },
+  {
+   "attributes": {
+    "id": 65,
+    "z_name": "Shahrzad e. V. ",
+    "id_z_art": 1,
+    "z_strasse": "Im Stavenhof ",
+    "z_hsnr": "18",
+    "z_plz": null,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "",
+    "z_ap_email": "info@shahrzad-gehoerlose.de",
+    "z_website": "https://www.shahrzad-gehoerlose.de/",
+    "z_sprachen": "Deutsch;Deutsche Gebärdensprache;International Sign;Persisch;Persische Gebärdensprache"
+   },
+   "geometry": {
+    "x": 6.9557656978768492,
+    "y": 50.948694478073186
+   }
+  },
+  {
+   "attributes": {
+    "id": 66,
+    "z_name": "FliehKraft - Kölner Flüchtlingszentrum ",
+    "id_z_art": 1,
+    "z_strasse": "Turmstraße",
+    "z_hsnr": "3-7",
+    "z_plz": 50733,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221/16853830;0221/16860571",
+    "z_ap_email": "info@fluechtlingszentrum.de",
+    "z_website": "www.fluechtlingszentrum.de",
+    "z_sprachen": "Deutsch;Arabisch;Englisch;Französisch;Italienisch;Persisch;Spanisch;Türkisch"
+   },
+   "geometry": {
+    "x": 6.9511114588195886,
+    "y": 50.964617265291942
+   }
+  },
+  {
+   "attributes": {
+    "id": 67,
+    "z_name": "Kurdisches Kultur- und Bildungszentrum Köln e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Olpener Straße ",
+    "z_hsnr": "143",
+    "z_plz": 51103,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221–29832271",
+    "z_ap_email": " komkar-koeln@hotmail.com",
+    "z_website": "https://www.xn--komkarkln-67a.de/category/der-verein/",
+    "z_sprachen": "Deutsch;Arabisch;Kurdisch;Türkisch"
+   },
+   "geometry": {
+    "x": 7.0282337219258464,
+    "y": 50.940365958318104
+   }
+  },
+  {
+   "attributes": {
+    "id": 8,
+    "z_name": "Interkulturelles Zentrum am Kölnberg",
+    "id_z_art": 1,
+    "z_strasse": "Alte Brühler Straße",
+    "z_hsnr": "10",
+    "z_plz": 50997,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "02232 / 965055",
+    "z_ap_email": "ikz-koelnberg@caritas-koeln.de",
+    "z_website": "https://www.caritas-koeln.de/hilfe-beratung/migration/interkulturelle-zentren/\n",
+    "z_sprachen": "Alle Sprachen, ggf. unter Einsatz von Sprachmittler*innen"
+   },
+   "geometry": {
+    "x": 6.9241846857360265,
+    "y": 50.863592603390792
+   }
+  },
+  {
+   "attributes": {
+    "id": 9,
+    "z_name": "Internationales Caritas-Zentrum Sülz",
+    "id_z_art": 1,
+    "z_strasse": "Zülpicher Straße",
+    "z_hsnr": "273b",
+    "z_plz": 50937,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 84641320",
+    "z_ap_email": "icz@caritas-koeln.de",
+    "z_website": "https://www.caritas-koeln.de/hilfe-beratung/migration/internationales-caritas-zentrum/",
+    "z_sprachen": "Alle Sprachen, ggf. unter Einbeziehung von Sprachmittler*innen"
+   },
+   "geometry": {
+    "x": 6.9226766253509231,
+    "y": 50.922206641320464
+   }
+  },
+  {
+   "attributes": {
+    "id": 19,
+    "z_name": "Jugendhilfe und Schule e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Kempener Straße",
+    "z_hsnr": "95",
+    "z_plz": 50733,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 727275",
+    "z_ap_email": "nippes.museum@web.de",
+    "z_website": "http://nippes.jugend-nrw.de/",
+    "z_sprachen": "Deutsch, Englisch, Italienisch, Spanisch, Türkisch und nach Bedarf"
+   },
+   "geometry": {
+    "x": 6.9489650073743157,
+    "y": 50.963389870998945
+   }
+  },
+  {
+   "attributes": {
+    "id": 22,
+    "z_name": "Deutsch-Türkischer Verein Köln e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Abendrothstraße",
+    "z_hsnr": "20",
+    "z_plz": 50769,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 1261370",
+    "z_ap_email": "info@dtvk.de",
+    "z_website": "https://dtvk.de/\n",
+    "z_sprachen": "Deutsch, Arabisch, Englisch, Farsi, Französisch, Lettisch, Polnisch, Russisch, Spanisch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.9019814147805736,
+    "y": 51.020786118524967
+   }
+  },
+  {
+   "attributes": {
+    "id": 25,
+    "z_name": "Deutsch-Griechisches Kulturzentrum Porz e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Mühlenstraße",
+    "z_hsnr": "40",
+    "z_plz": 51143,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "02203 / 55208",
+    "z_ap_email": "dgkulturzentrum@gmail.com",
+    "z_website": "https://www.dgkz-koeln-porz.de/",
+    "z_sprachen": "Deutsch, Englisch, Französisch, Griechisch"
+   },
+   "geometry": {
+    "x": 7.0581904867439205,
+    "y": 50.882299225736503
+   }
+  },
+  {
+   "attributes": {
+    "id": 46,
+    "z_name": "Raum-B",
+    "id_z_art": 1,
+    "z_strasse": "Frankfurter Straße",
+    "z_hsnr": "102-104",
+    "z_plz": 51065,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 99201097",
+    "z_ap_email": "raum-b@diakonie-koeln.de",
+    "z_website": "https://raum-buchheim.de/",
+    "z_sprachen": "Deutsch, Dari, Englisch, Farsi, Französisch, Griechisch, Portugiesisch, Spanisch"
+   },
+   "geometry": {
+    "x": 7.013560618611157,
+    "y": 50.955283784624136
+   }
+  },
+  {
+   "attributes": {
+    "id": 29,
+    "z_name": "Begegnungs-Café Querbeet",
+    "id_z_art": 1,
+    "z_strasse": "Bertramstraße",
+    "z_hsnr": "12",
+    "z_plz": 51103,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 22214815",
+    "z_ap_email": "caritas-zentrum.kalk@caritas-koeln.de/",
+    "z_website": "https://www.caritas-koeln.de/hilfe-beratung/migration/interkulturelle-zentren/\n",
+    "z_sprachen": "Alle Sprachen, ggf. unter Einbeziehung von Sprachmittler*innen"
+   },
+   "geometry": {
+    "x": 7.0040420228294336,
+    "y": 50.94218259764439
+   }
+  },
+  {
+   "attributes": {
+    "id": 27,
+    "z_name": "Solibund e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Friedrichstraße",
+    "z_hsnr": "39-41",
+    "z_plz": 51143,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "02203 / 55993",
+    "z_ap_email": "vorstand@solibund.de",
+    "z_website": "https://www.solibund.de/",
+    "z_sprachen": "Deutsch, Arabisch, Engisch, Französisch, Italienisch, Kurdisch(Sorani,Kurmanci), Russisch, Türkisch, Ukrainisch"
+   },
+   "geometry": {
+    "x": 7.0615082802447846,
+    "y": 50.885696969120488
+   }
+  },
+  {
+   "attributes": {
+    "id": 36,
+    "z_name": "Dako e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Melchiorstraße",
+    "z_hsnr": "3",
+    "z_plz": 50670,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 4309975",
+    "z_ap_email": "info@dako-ev.de/",
+    "z_website": "https://www.dako-ev.de",
+    "z_sprachen": "Arabisch,Bambara/Malinké, Ebrie, Englisch, Französisch,Persisch"
+   },
+   "geometry": {
+    "x": 6.9549387859540763,
+    "y": 50.952375523901409
+   }
+  },
+  {
+   "attributes": {
+    "id": 16,
+    "z_name": "Kölner Appell gegen Rassismus e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Venloer Straße",
+    "z_hsnr": "429",
+    "z_plz": 50825,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 9521199",
+    "z_ap_email": "koelner.appell@t-online.de",
+    "z_website": "https://www.koelnerappell.de/",
+    "z_sprachen": "Deutsch, Arabisch, Französisch"
+   },
+   "geometry": {
+    "x": 6.9123623251777744,
+    "y": 50.952820779300659
+   }
+  },
+  {
+   "attributes": {
+    "id": 6,
+    "z_name": "Rom e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Venloer Wall",
+    "z_hsnr": "17",
+    "z_plz": 50672,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 242536",
+    "z_ap_email": "info@romev.de",
+    "z_website": "https://www.romev.de/",
+    "z_sprachen": "Deutsch, Albanisch, Bulgarisch, Englisch, Italienisch, Mazedonisch, Romanes , Serbokroatisch"
+   },
+   "geometry": {
+    "x": 6.9348755952145202,
+    "y": 50.945821175478514
+   }
+  },
+  {
+   "attributes": {
+    "id": 52,
+    "z_name": "Zentrum Rösrather Straße",
+    "id_z_art": 1,
+    "z_strasse": "Rösrather Straße",
+    "z_hsnr": "2-16",
+    "z_plz": 51107,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 32008533",
+    "z_ap_email": "nuran.kancok@awo-mittelrhein.de",
+    "z_website": "https://www.migrationsfachdienst-awo-mittelrhein.de/de/buergerschaftliches-engagement/kontakt-aktis/",
+    "z_sprachen": "Deutsch, Englisch, Portugiesisch, Türkisch"
+   },
+   "geometry": {
+    "x": 7.0416446085756084,
+    "y": 50.929436397101206
+   }
+  },
+  {
+   "attributes": {
+    "id": 40,
+    "z_name": "Begegnungs- und Fortbildungszentrum muslimischer Frauen e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Liebigstraße",
+    "z_hsnr": "120b",
+    "z_plz": 50823,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 8001210",
+    "z_ap_email": "kontakt@bfmf-koeln.de/",
+    "z_website": "https://www.bfmf-koeln.de/bfmf-root/German/Default.aspx",
+    "z_sprachen": "Deutsch, Amharisch, Arabisch, Englisch, Französisch, Kurdisch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.9329476957158773,
+    "y": 50.955543899654977
+   }
+  },
+  {
+   "attributes": {
+    "id": 54,
+    "z_name": "Kommunales Integrationszentrum",
+    "id_z_art": 1,
+    "z_strasse": "Kleine Sandkaul",
+    "z_hsnr": "5",
+    "z_plz": 50667,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 22129296;0221 / 22126189",
+    "z_ap_email": "britta.hollmann@stadt-koeln.de",
+    "z_website": "https://ki-koeln.de/aufgaben/querschnitt/interkulturelle-zentren/",
+    "z_sprachen": "Deutsch"
+   },
+   "geometry": {
+    "x": 6.957890700492559,
+    "y": 50.935997585058267
+   }
+  },
+  {
+   "attributes": {
+    "id": 41,
+    "z_name": "Coach e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Oskar-Jäger-Straße",
+    "z_hsnr": "139",
+    "z_plz": 50823,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 5465625",
+    "z_ap_email": "info@coach-koeln.de/",
+    "z_website": "https://www.coach-koeln.de",
+    "z_sprachen": "Deutsch, Arabisch, Badini, Dari, Englisch, Farsi, Französisch, Kurmanci, Spanisch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.904056605341065,
+    "y": 50.943946606674885
+   }
+  },
+  {
+   "attributes": {
+    "id": 42,
+    "z_name": "Offene Welt - italienische Kultur im Dialog e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Zugweg",
+    "z_hsnr": "22",
+    "z_plz": 50667,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 29996093",
+    "z_ap_email": "offene-welt@web.de",
+    "z_website": "http://interkulturell.koeln/offene-welt-e-v/",
+    "z_sprachen": "Deutsch, Englisch, Italienisch"
+   },
+   "geometry": {
+    "x": 6.9583288033999224,
+    "y": 50.918970161037315
+   }
+  },
+  {
+   "attributes": {
+    "id": 37,
+    "z_name": "Afrikanische Gemeinde Köln e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Weinsbergstraße",
+    "z_hsnr": "190",
+    "z_plz": 50827,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 50057965",
+    "z_ap_email": "drdenismukuna@aol.de/",
+    "z_website": "https://afrikanische-gemeinde-koeln.jimdofree.com/",
+    "z_sprachen": "Deutsch, Englisch, Eve, Französisch, Fula, Lingala, Malinke, Susu"
+   },
+   "geometry": {
+    "x": 6.9096091255624223,
+    "y": 50.94541557812888
+   }
+  },
+  {
+   "attributes": {
+    "id": 48,
+    "z_name": "23 Nisan e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Auguststraße",
+    "z_hsnr": "44",
+    "z_plz": 50733,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 7202029",
+    "z_ap_email": "23nisankoeln@gmx.de",
+    "z_website": "http://www.23nisankoeln.de/startseite.php",
+    "z_sprachen": "Deutsch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.9520651447068715,
+    "y": 50.962096305022541
+   }
+  },
+  {
+   "attributes": {
+    "id": 23,
+    "z_name": "Freunde des Interkulturellen Zentrums FIZ e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Riphahnstraße",
+    "z_hsnr": "9",
+    "z_plz": 50769,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 9904387",
+    "z_ap_email": "info@fiz-chorweiler.de",
+    "z_website": "http://fiz-chorweiler.de/",
+    "z_sprachen": "Deutsch, Englisch, Farsi, Persisch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.9035334157591715,
+    "y": 51.018217363209473
+   }
+  },
+  {
+   "attributes": {
+    "id": 32,
+    "z_name": "Integrationshaus e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Ottmar-Pohl-Platz",
+    "z_hsnr": "3a und 5",
+    "z_plz": 51103,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 99745752",
+    "z_ap_email": "info@ihaus.org",
+    "z_website": "https://ihaus.org/",
+    "z_sprachen": "Deutsch, Arabisch, Englisch, Russisch"
+   },
+   "geometry": {
+    "x": 7.0032955098614211,
+    "y": 50.936314160311525
+   }
+  },
+  {
+   "attributes": {
+    "id": 39,
+    "z_name": "Allerweltshaus e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Körnerstraße",
+    "z_hsnr": "77-79",
+    "z_plz": 50823,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 57779930",
+    "z_ap_email": "info@allerweltshaus.de/",
+    "z_website": "https://www.allerweltshaus.de/",
+    "z_sprachen": "Deutsch, Arabisch, Bulgarisch, Englisch, Französisch, Italienisch, Lingala, Persisch, Portugisisch, Rumänisch, Spanisch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.9236266615416167,
+    "y": 50.950261161275634
+   }
+  },
+  {
+   "attributes": {
+    "id": 34,
+    "z_name": "Dersim Gemeinde Köln e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Bleichstraße",
+    "z_hsnr": "1",
+    "z_plz": 50678,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 620062",
+    "z_ap_email": "dgk@dersimweb.de;info@dersimweb.de",
+    "z_website": "https://dersimweb.de/",
+    "z_sprachen": "Deutsch, Kurdisch, Türkisch"
+   },
+   "geometry": {
+    "x": 7.0012675328160467,
+    "y": 50.960435714121914
+   }
+  },
+  {
+   "attributes": {
+    "id": 47,
+    "z_name": "Interkultur e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Berliner Straße",
+    "z_hsnr": "77",
+    "z_plz": 51063,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 95790186",
+    "z_ap_email": "info@interkultur-ev.net",
+    "z_website": "https://www.interkultur-ev.net/",
+    "z_sprachen": "Deutsch, Afghanisch, Arabisch, Englisch, Farsi, Französisch, Kurdisch, Polnisch, Russisch"
+   },
+   "geometry": {
+    "x": 7.0106363302859895,
+    "y": 50.972344391880064
+   }
+  },
+  {
+   "attributes": {
+    "id": 20,
+    "z_name": "Zurück in die Zukunft e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Neusser Straße",
+    "z_hsnr": "472",
+    "z_plz": 50733,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 7390470",
+    "z_ap_email": "kontakt@zidz.info",
+    "z_website": "https://zidz.org/",
+    "z_sprachen": "Deutsch, Arabisch, Englisch, Französisch, Kurdisch, Polnisch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.9509841701440775,
+    "y": 50.973947628122424
+   }
+  },
+  {
+   "attributes": {
+    "id": 31,
+    "z_name": "Vingster Treff",
+    "id_z_art": 1,
+    "z_strasse": "Würzburger Straße",
+    "z_hsnr": "11a",
+    "z_plz": 51103,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 875485",
+    "z_ap_email": "vingstertreff@soziales-koeln.de",
+    "z_website": "https://buergerzentrum-vingst.de/vingstertreff/",
+    "z_sprachen": "Deutsch, Englisch, Französisch, Kurdisch, Spanisch, Türkisch"
+   },
+   "geometry": {
+    "x": 7.0188216166290491,
+    "y": 50.935628718591964
+   }
+  },
+  {
+   "attributes": {
+    "id": 43,
+    "z_name": "Weltmusik, Klezmer und Ästhetik Akademie Integrations- und Begegnungszentrum e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Annostraße",
+    "z_hsnr": "27-33",
+    "z_plz": 50678,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 93119010",
+    "z_ap_email": "mail@klezmerakademie.org",
+    "z_website": "https://www.weltmusikakademie.org/",
+    "z_sprachen": "Deutsch, Englisch, Farsi, Frazösisch, Russisch"
+   },
+   "geometry": {
+    "x": 6.9613738083560843,
+    "y": 50.92373711552564
+   }
+  },
+  {
+   "attributes": {
+    "id": 44,
+    "z_name": "Synagogen-Gemeinde Köln Porz",
+    "id_z_art": 1,
+    "z_strasse": "Theodor-Heuss-Straße",
+    "z_hsnr": "43-45",
+    "z_plz": 51149,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "02203 / 201554",
+    "z_ap_email": "bgz-porz@sgk.de",
+    "z_website": "https://www.sgk.de/gemeinde/standorte/#porz",
+    "z_sprachen": "Deutsch, Russisch"
+   },
+   "geometry": {
+    "x": 7.0677437670790937,
+    "y": 50.897498092726714
+   }
+  },
+  {
+   "attributes": {
+    "id": 45,
+    "z_name": "Synagogen-Gemeinde Begegnungszentrum Chorweiler",
+    "id_z_art": 1,
+    "z_strasse": "Pariser Platz",
+    "z_hsnr": "30",
+    "z_plz": 50765,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 70992790",
+    "z_ap_email": "bgz-chorweiler@sgk.de/",
+    "z_website": "https://www.sgk.de/gemeinde/standorte/#chorweiler",
+    "z_sprachen": "Deutsch, Russisch, Ukrainisch"
+   },
+   "geometry": {
+    "x": 6.89910730218035,
+    "y": 51.02313466481958
+   }
+  },
+  {
+   "attributes": {
+    "id": 38,
+    "z_name": "Aktion Nachbarschaft",
+    "id_z_art": 1,
+    "z_strasse": "Ossendorfer Weg",
+    "z_hsnr": "1",
+    "z_plz": 50827,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 16859128",
+    "z_ap_email": "interkulturelles.zentrum@aktion-nachbarschaft.de/",
+    "z_website": "https://aktion-nachbarschaft.de/",
+    "z_sprachen": "Deutsch, Dari, Englisch, Ewé, Französisch, Kabyé, Kotokoli, Kurdisch, Persisch, Türkisch"
+   },
+   "geometry": {
+    "x": 6.893125845078421,
+    "y": 50.968821464874871
+   }
+  },
+  {
+   "attributes": {
+    "id": 18,
+    "z_name": "PHOENIX Köln e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Graeffstraße",
+    "z_hsnr": "5",
+    "z_plz": 50823,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 29826479",
+    "z_ap_email": "info@phoenix-cologne.com",
+    "z_website": "https://www.phoenix-cologne.com/",
+    "z_sprachen": "Deutsch, Arabisch, Bulgarisch, Dari, Englisch, Farsi, Französisch, Kurdisch(Sorani,Kurmanci), Romanes, Russisch, Ukrainisch"
+   },
+   "geometry": {
+    "x": 6.933250549617342,
+    "y": 50.949626092261276
+   }
+  },
+  {
+   "attributes": {
+    "id": 28,
+    "z_name": "Alevitisches Kulturzentrum Porz",
+    "id_z_art": 1,
+    "z_strasse": "Josefstraße",
+    "z_hsnr": "24",
+    "z_plz": 51143,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "02203 / 1833939",
+    "z_ap_email": "akmporz@outlook.de",
+    "z_website": "akz-porz.de",
+    "z_sprachen": "Deutsch, Kurdisch, Türkisch"
+   },
+   "geometry": {
+    "x": 7.0581458459501167,
+    "y": 50.886735619889855
+   }
+  },
+  {
+   "attributes": {
+    "id": 33,
+    "z_name": "Deutsch-Russisches Kultur- und Integrationszentrum MAGNET e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Sigrid-Undset-Straße",
+    "z_hsnr": "12",
+    "z_plz": 51065,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 44900784",
+    "z_ap_email": "verein-magnet@gmx.de",
+    "z_website": "http://verein-magnet.de/",
+    "z_sprachen": "Deutsch, Englisch, Russisch, Ukrainisch"
+   },
+   "geometry": {
+    "x": 7.025045648287878,
+    "y": 50.933418920987187
+   }
+  },
+  {
+   "attributes": {
+    "id": 49,
+    "z_name": "Runder Tisch Buchforst e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Kalk-Mülheimer Straße",
+    "z_hsnr": "318",
+    "z_plz": 51065,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 2850150",
+    "z_ap_email": "kontakt@stadtteilzentrum-buchforst.de",
+    "z_website": "http://www.stadtteilzentrum-buchforst.de/runder-tisch-buchforst/",
+    "z_sprachen": "Deutsch, Kurdisch, Türkisch"
+   },
+   "geometry": {
+    "x": 7.0015255414887063,
+    "y": 50.951366872364517
+   }
+  },
+  {
+   "attributes": {
+    "id": 68,
+    "z_name": "Mosaik e. V.",
+    "id_z_art": 1,
+    "z_strasse": "Glücksburgstraße ",
+    "z_hsnr": "17",
+    "z_plz": 51065,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 54812427",
+    "z_ap_email": "info@mosaik-ev.koeln",
+    "z_website": "https://mosaik-ev.koeln/",
+    "z_sprachen": "Deutsch;Arabisch;Englisch;Französisch;Mazedonisch;Persisch;Serbisch Roma"
+   },
+   "geometry": {
+    "x": 7.0095961756414162,
+    "y": 50.957378532446974
+   }
+  },
+  {
+   "attributes": {
+    "id": 63,
+    "z_name": "Migrafrica - Verein für junge afrikanische und\nandere Diaspora gGmbH",
+    "id_z_art": 1,
+    "z_strasse": "Goebenstraße ",
+    "z_hsnr": "10-12",
+    "z_plz": 50672,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221/99390435",
+    "z_ap_email": "kontakt@migrafrica.org\namare@migrafrica.org",
+    "z_website": "https://www.migrafrica.org/",
+    "z_sprachen": "Deutsch;Amharisch;Bambara;Djoula;Englisch;Französisch;Lingala;Malinke;Tigrinja"
+   },
+   "geometry": {
+    "x": 6.939960973661532,
+    "y": 50.944557690937735
+   }
+  },
+  {
+   "attributes": {
+    "id": 35,
+    "z_name": "ISS-Netzwerk gGmbH",
+    "id_z_art": 1,
+    "z_strasse": "Berliner Straße",
+    "z_hsnr": "98-100",
+    "z_plz": 51063,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "0221 / 9777480",
+    "z_ap_email": "info@iss-netzwerk.de",
+    "z_website": "https://www.iss-netzwerk.de/",
+    "z_sprachen": "Deutsch, Englisch, Französisch, Rumänisch, Russisch, Weitere Sprachen nach Bedarf"
+   },
+   "geometry": {
+    "x": 7.0118319659639816,
+    "y": 50.972831232433045
+   }
+  },
+  {
+   "attributes": {
+    "id": 62,
+    "z_name": "Jama Nyeta gGmbH",
+    "id_z_art": 1,
+    "z_strasse": "Goebenstraße ",
+    "z_hsnr": "10-12",
+    "z_plz": 50672,
+    "z_ort": "Köln",
+    "z_ap_tel_f": "",
+    "z_ap_email": "info@jamanyeta.org",
+    "z_website": "https://jamanyeta.org/",
+    "z_sprachen": "Deutsch;Bambara;Djoula;Englisch;Farsi;Foula;Franzsösisch;Kassonke;Malinke;Mandingo;Marokkanisch;Portugiesisch;Sosso;Spanisch"
+   },
+   "geometry": {
+    "x": 6.9399753551992829,
+    "y": 50.9445731738844
+   }
+  }
+ ]
+}
